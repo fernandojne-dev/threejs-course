@@ -18,4 +18,4 @@ npm run build
 
 ## Final Result of Lesson
 
-![04 Webpack Final Render](Chapter-01/04-webpack/static/04-webpack-final-render.png 'Cube front side')
+![04 Webpack Final Render](https://github.com/fernandojne-dev/threejs-course/blob/main/Chapter-01/04-webpack/static/04-webpack-final-render.png?raw=true 'Cube front side')
