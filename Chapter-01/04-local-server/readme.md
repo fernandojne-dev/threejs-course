@@ -1,11 +1,10 @@
 # Three.js Journey
 
 ## Setup
-
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-```bash
+``` bash
 # Install dependencies (only the first time)
 npm install
 
@@ -15,7 +14,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-
-## Final Result of Lesson
-
-![04 Webpack Final Render](https://github.com/fernandojne-dev/threejs-course/blob/main/Chapter-01/04-webpack/static/04-webpack-final-render.png?raw=true 'Cube front side')
